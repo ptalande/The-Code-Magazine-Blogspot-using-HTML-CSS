@@ -1,1 +1,1 @@
-# The-Code-Magazine-webpage-using-html-Css
+# The-Code-Magazine-Blogspot-using-html-Css
